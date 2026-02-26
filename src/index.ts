@@ -37,7 +37,7 @@ loadDotEnv({ quiet: true });
 normalizeEnv();
 ensureOpenClawCliOnPath();
 
-// Capture all console output into structured logs while keeping stdout/stderr behavior. yyy xxx
+// Capture all console output into structured logs while keeping stdout/stderr behavior. zzz yyy xxx
 enableConsoleCapture();
 
 // Enforce the minimum supported runtime before doing any work.
